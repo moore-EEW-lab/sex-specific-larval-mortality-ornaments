@@ -2,6 +2,8 @@
 
 #Year: 2023
 
+#https://royalsocietypublishing.org/doi/abs/10.1098/rsbl.2023.0108
+
 #File Name: drags.larval.sex.ratio.csv
 #Description: Species’ traits of dragonflies that were used for the analyses to test the relationship between male wing coloration and population sex ratio at the end of the larval period. Species in this analysis are those that are present in a pruned, maximum credibility phylogeny that was produced by Letsch et al. 2016 (Molecular Ecology). The pruned version of the phylogeny used in the analyses for these data has the file name ‘drags.larval.sex.ratio.phylo.tre’. The R scripts that use this dataset are named “annotated code for larval sex ratio analysis.R”. 
 #Rows: 141, including the header. Each row corresponds to a population 

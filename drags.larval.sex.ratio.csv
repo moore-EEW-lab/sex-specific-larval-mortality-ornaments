@@ -1,0 +1,141 @@
+binom,prop.male,male.wing.color,male.size,source for larval sex ratio,estim col amount,source for est col amount
+Aeshna_affinis,49.9,n,61.5,corbet,NA,NA
+Aeshna_crenata,47.9,n,78.5,corbet,NA,NA
+Aeshna_cyanea,42.2,n,71.5,corbet,NA,NA
+Aeshna_cyanea,46.4,n,71.5,corbet,NA,NA
+Aeshna_cyanea,47.2,n,71.5,corbet,NA,NA
+Aeshna_cyanea,48.1,n,71.5,corbet,NA,NA
+Aeshna_cyanea,48.2,n,71.5,corbet,NA,NA
+Aeshna_cyanea,49,n,71.5,corbet,NA,NA
+Aeshna_cyanea,49.7,n,71.5,corbet,NA,NA
+Aeshna_cyanea,51.5,n,71.5,corbet,NA,NA
+Aeshna_cyanea,59.5,n,71.5,corbet,NA,NA
+Aeshna_grandis,38.7,y,73.5,corbet,NA,NA
+Aeshna_grandis,46.8,y,73.5,Johansson et al. 2005,NA,NA
+Aeshna_juncea,42.2,n,75.5,corbet,NA,NA
+Aeshna_juncea,48,n,75.5,corbet,NA,NA
+Aeshna_juncea,49.2,n,75.5,corbet,NA,NA
+Aeshna_mixta,42.3,n,60,corbet,NA,NA
+Aeshna_mixta,50,n,60,corbet,NA,NA
+Aeshna_subarctica,44.5,n,74,corbet,NA,NA
+Aeshna_subarctica,45.4,n,74,corbet,NA,NA
+Aeshna_subarctica,47.5,n,74,corbet,NA,NA
+Aeshna_subarctica,48.3,n,74,corbet,NA,NA
+Aeshna_subarctica,51.3,n,74,corbet,NA,NA
+Aeshna_subarctica,46.5,n,74,Johansson et al. 2005,NA,NA
+Anaciaeschna_martini,17.1,y,73,corbet,0.25,OPD
+Anax_imperator,64.4,n,76.5,corbet,NA,NA
+Anax_imperator,35.1,n,76.5,corbet,NA,NA
+Anax_imperator,46.5,n,76.5,corbet,NA,NA
+Anax_imperator,47.1,n,76.5,corbet,NA,NA
+Anax_imperator,47.2,n,76.5,corbet,NA,NA
+Anax_imperator,48.4,n,76.5,corbet,NA,NA
+Anax_imperator,49,n,76.5,corbet,NA,NA
+Anax_imperator,49.3,n,76.5,corbet,NA,NA
+Anax_imperator,50,n,76.5,corbet,NA,NA
+Anax_junius,46.8,n,74,corbet,NA,NA
+Anax_junius,48.2,n,74,corbet,NA,NA
+Anax_junius,48.4,n,74,corbet,NA,NA
+Anax_parthenope,46,y,68.5,corbet,NA,NA
+Asiagomphus_melaenops,50.2,n,67,corbet,NA,NA
+Asiagomphus_melaenops,50.5,n,67,corbet,NA,NA
+Asiagomphus_melaenops,53,n,67,corbet,NA,NA
+Asiagomphus_melaenops,58.9,n,67,corbet,NA,NA
+Asiagomphus_melaenops,61,n,67,corbet,NA,NA
+Asiagomphus_pryeri,38.9,n,NA,corbet,NA,NA
+Asiagomphus_pryeri,41.5,n,NA,corbet,NA,NA
+Boyeria_irene,46.5,y,67,corbet,NA,NA
+Brachythemis_contaminata,46,y,33,corbet,0.5,OPD
+Brachythemis_contaminata,47.7,y,33,corbet,0.5,OPD
+Brachythemis_leucosticta,41.1,y,27.5,corbet,0.25,OPD
+Cordulegaster_boltonii,47.2,n,77,corbet,NA,NA
+Cordulia_aenea,40.5,y,51,corbet,NA,NA
+Cordulia_aenea,42,y,51,corbet,NA,NA
+Cordulia_aenea,43,y,51,corbet,NA,NA
+Cordulia_aenea,43,y,51,corbet,NA,NA
+Cordulia_aenea,43.5,y,51,corbet,NA,NA
+Cordulia_aenea,52.8,y,51,corbet,NA,NA
+Cordulia_aenea,47.3,y,51,Johansson et al. 2005,NA,NA
+Crocothemis_erythraea,54.8,y,39,corbet,0.1,OPD
+Deielia_phaon,37.7,n,42.5,corbet,NA,NA
+Deielia_phaon,43.3,n,42.5,corbet,NA,NA
+Deielia_phaon,43.4,n,42.5,corbet,NA,NA
+Diplacodes_trivialis,45.9,n,30.5,corbet,NA,NA
+Diplacodes_trivialis,46,n,30.5,corbet,NA,NA
+Epitheca_bimaculata,42.9,y,60,corbet,0.25,OPD
+Epitheca_cynosura,38.9,y,40.5,corbet,0.055,Hersch & Moore 2023
+Epitheca_cynosura,44.3,y,40.5,corbet,0.055,Hersch & Moore 2023
+Epitheca_cynosura,48.9,y,40.5,corbet,0.055,Hersch & Moore 2023
+Epitheca_cynosura,49.6,y,40.5,corbet,0.055,Hersch & Moore 2023
+Epitheca_cynosura,52.7,y,40.5,corbet,0.055,Hersch & Moore 2023
+Gomphus_exilis,45.6,n,43.5,corbet,NA,NA
+Gomphus_exilis,47.3,n,43.5,corbet,NA,NA
+Gomphus_exilis,47.9,n,43.5,corbet,NA,NA
+Gomphus_exilis,49.9,n,43.5,corbet,NA,NA
+Gomphus_pulchellus,50.1,n,48.5,corbet,NA,NA
+Gomphus_pulchellus,50.7,n,48.5,corbet,NA,NA
+Gomphus_vulgatissimus,30.7,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,36.6,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,41.8,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,43.9,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,44.6,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,44.7,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,45.8,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,46.2,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,46.4,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,46.8,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,47,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,47.1,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,48.8,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,50,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,50.2,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,51.8,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,55.2,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,72.4,n,47.5,corbet,NA,NA
+Gomphus_vulgatissimus,54.4,n,47.5,Johansson et al. 2005,NA,NA
+Ictinogomphus_ferox,44.5,y,83.5,corbet,NA,NA
+Leucorrhinia_dubia,44.5,y,33.5,corbet,0.1,Hersch & Moore 2023
+Leucorrhinia_dubia,44.1,y,33.5,corbet,0.1,OPD
+Leucorrhinia_dubia,48.5,y,33.5,corbet,0.1,OPD
+Leucorrhinia_dubia,48.8,y,33.5,corbet,0.1,OPD
+Leucorrhinia_dubia,39.3,y,33.5,Johansson et al. 2005,0.1,OPD
+Leucorrhinia_rubicunda,39.5,y,34.5,corbet,0.1,OPD
+Leucorrhinia_rubicunda,41,y,34.5,corbet,0.1,OPD
+Leucorrhinia_rubicunda,45.8,y,34.5,corbet,0.1,OPD
+Leucorrhinia_rubicunda,47.8,y,34.5,corbet,0.1,OPD
+Leucorrhinia_rubicunda,49.2,y,34.5,corbet,0.1,OPD
+Leucorrhinia_rubicunda,46.5,y,34.5,Johansson et al. 2005,0.1,OPD
+Libellula_quadrimaculata,47.2,y,44,corbet,0.134322222,Hersch & Moore 2023
+Libellula_quadrimaculata,53,y,44,Johansson et al. 2005,0.134322222,Hersch & Moore 2023
+Onychogomphus_forcipatus,36.5,n,48,corbet,NA,NA
+Onychogomphus_forcipatus,45.8,n,48,corbet,NA,NA
+Onychogomphus_uncatus,41.2,n,51.5,corbet,NA,NA
+Onychogomphus_uncatus,43.9,n,51.5,corbet,NA,NA
+Onychogomphus_uncatus,49,n,51.5,corbet,NA,NA
+Onychogomphus_uncatus,51.6,n,51.5,corbet,NA,NA
+Onychogomphus_uncatus,41.2,n,51.5,Johansson et al. 2005,NA,NA
+Ophiogomphus_cecilia,44.2,n,55,corbet,NA,NA
+Ophiogomphus_cecilia,47.3,n,55,corbet,NA,NA
+Ophiogomphus_cecilia,54.7,n,55,corbet,NA,NA
+Ophiogomphus_cecilia,54.7,n,55,corbet,NA,NA
+Ophiogomphus_cecilia,55.7,n,55,corbet,NA,NA
+Ophiogomphus_cecilia,56.4,n,55,corbet,NA,NA
+Orthetrum_sabina,45.7,n,46.5,corbet,NA,NA
+Orthetrum_sabina,47.7,n,46.5,corbet,NA,NA
+Pantala_flavescens,45.5,n,48.5,corbet,NA,NA
+Pantala_flavescens,48.7,n,48.5,corbet,NA,NA
+Phyllomacromia_picta,47.7,n,56.5,corbet,NA,NA
+Sieboldius_albardae,61.8,n,87,corbet,NA,NA
+Somatochlora_arctica,35.9,y,48,corbet,NA,NA
+Somatochlora_metallica,49.7,n,53,Johansson et al. 2005,NA,NA
+Stylurus_annulatus,47.1,n,59.5,corbet,NA,NA
+Stylurus_annulatus,47.5,n,59.5,corbet,NA,NA
+Sympetrum_danae,44.4,n,31.5,Johansson et al. 2005,NA,NA
+Sympetrum_sanguineum,46.4,n,36.5,corbet,NA,NA
+Sympetrum_striolatum,46.3,n,39.5,corbet,NA,NA
+Sympetrum_vicinum,37.9,y,33,corbet,0.026,Hersch & Moore 2023
+Sympetrum_vulgatum,46.2,n,37.5,corbet,NA,NA
+Trithemis_annulata,52.1,y,35,corbet,0.1,OPD
+Trithemis_festiva,48.7,y,34,corbet,0.1,OPD
+Trithemis_festiva,53.3,y,34,corbet,0.1,OPD
+Zygonyx_natalensis,47,n,52.5,corbet,NA,NA
